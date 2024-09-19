@@ -1,3 +1,3 @@
 # Cocoa Clone 2024 Update
 
-CSS got so much better!
+HTML and CSS is so beautiful!!
